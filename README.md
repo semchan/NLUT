@@ -38,6 +38,8 @@ You can download the training dataset through the link below
 
 - [Microsoft COCO](https://cocodataset.org/#download) 
 
+pre-trained checkpoint: link：https://pan.baidu.com/s/1YgepbC62QKwyZDfOLUHMlg 
+extraction code：1234 
 
 ## training
 All the appropriate hyper-parameters have been set as default,Only the content_path and style_path needs to be modified before training.
