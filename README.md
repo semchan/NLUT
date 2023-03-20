@@ -2,7 +2,7 @@
 
 ## overview 
 NLUT(see [our paper](https://arxiv.org/pdf/2303.09170) and [project page](https://semchan.github.io/NLUT_Project/) )is a super fast photorealistic style transfer method for video. We build a neural network to generate a stylized 3D LUT. The goal is to realize fast photorealistic style transfer for video. Specifically, we train the neural network that produces 3D LUT on a large dataset and then fine-tune it in test-time training to generate a stylized 3D LUT of a specific style image and video content. Although our method needs fine-tuning when used, it is more effective than other methods and is super fast in video processing. For example, it can process 8K video in less than 2 milliseconds. In the future, we will explore ways to generate 3D LUTs in arbitrary styles even more quickly.
-<div align=center><img height="300" src="./teaser.png"/></div>
+<div align=center><img height="600" src="./teaser.png"/></div>
 
 
 ## Preparation 
