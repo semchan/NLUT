@@ -1,0 +1,5 @@
+# ninja log v5
+1	3882	1663408458	/home/chenys/PhotorealisticImageTranslation/CLUT-Net/trilinear_cpp/build/temp.linux-x86_64-3.8/src/trilinear_kernel.o	39ba200492dc9c73
+1	17947	1663408472	/home/chenys/PhotorealisticImageTranslation/CLUT-Net/trilinear_cpp/build/temp.linux-x86_64-3.8/src/trilinear_cuda.o	c80de09cbd1f575e
+0	6160	1672739735	/root/code/NLUT_NET/trilinear_cpp/build/temp.linux-x86_64-3.8/src/trilinear_kernel.o	ff2d06184251d2bc
+0	29146	1672739758	/root/code/NLUT_NET/trilinear_cpp/build/temp.linux-x86_64-3.8/src/trilinear_cuda.o	fc71c2987457d573

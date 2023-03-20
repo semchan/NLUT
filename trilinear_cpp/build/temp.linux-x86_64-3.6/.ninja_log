@@ -1,0 +1,3 @@
+# ninja log v5
+0	4550	1673230475	/root/code/NLUT_NET/trilinear_cpp/build/temp.linux-x86_64-3.6/src/trilinear_kernel.o	b9f8263761f50125
+0	21826	1673230492	/root/code/NLUT_NET/trilinear_cpp/build/temp.linux-x86_64-3.6/src/trilinear_cuda.o	e2b7cdc9fbcdfe86
