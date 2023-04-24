@@ -38,7 +38,7 @@ You can download the training dataset through the link below
 
 - [Microsoft COCO](https://cocodataset.org/#download) 
 
-pre-trained checkpoint: link：https://pan.baidu.com/s/1YgepbC62QKwyZDfOLUHMlg 
+pre-trained checkpoint: link：https://pan.baidu.com/s/1VddHbq2cBy5RcKOp8S5eSg
 extraction code：1234 
 
 ## training
