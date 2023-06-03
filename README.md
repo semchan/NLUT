@@ -40,7 +40,7 @@ You can download the training dataset through the link below
 
 pre-trained checkpoint: link：https://pan.baidu.com/s/1VddHbq2cBy5RcKOp8S5eSg
 extraction code：1234 
-
+or google drive: https://drive.google.com/drive/folders/1YqCKnfqzOPtmwdYAziGZMQ79iAI0_0ur
 ## training
 All the appropriate hyper-parameters have been set as default,Only the content_path and style_path needs to be modified before training.
 
